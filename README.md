@@ -1,4 +1,7 @@
-This toolkit is a Python-based library designed to help computations in multivariable calculus. It provides classes and methods for differentiating expressions, computing gradients, finding unit normal vectors, evaluating tangent planes, and calculating directional derivatives. This suite of tools is invaluable for students, educators, and professionals dealing with advanced mathematical concepts in fields like engineering, physics, data science, and more.
+## This toolkit is a Python-based library designed to help computations in multivariable calculus. It provides classes and methods for differentiating expressions, computing gradients, finding unit normal vectors, evaluating tangent planes, and calculating directional derivatives. This suite of tools is invaluable for students, educators, and professionals dealing with advanced mathematical concepts in fields like engineering, physics, data science, and more.
+
+![image](https://github.com/user-attachments/assets/8876ac51-1ef3-478f-a5fc-c66f42ce42bb)
+
 
 Features
 Differentiation: Automates the process of finding derivatives of algebraic expressions with respect to one or more variables.
